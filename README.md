@@ -20,17 +20,17 @@ See you soon
 
 ## Skills
 
--Test Documentation
+- Test Documentation
 
--Bug Tracking ( JIRA )
+- Bug Tracking ( JIRA )
 
--Manual Testing
+- Manual Testing
 
--API Testing with Postman
+- API Testing with Postman
 
--Agile Scrum Methodology
+- Agile Scrum Methodology
 
--Multilingual Communication
+- Multilingual Communication
 
 ## Projects
 
