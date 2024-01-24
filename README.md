@@ -21,10 +21,15 @@ See you soon
 ## Skills
 
 -Test Documentation
+
 -Bug Tracking ( JIRA )
+
 -Manual Testing
+
 -API Testing with Postman
+
 -Agile Scrum Methodology
+
 -Multilingual Communication
 
 ## Projects
