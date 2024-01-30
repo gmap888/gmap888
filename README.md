@@ -65,7 +65,7 @@ I actively participated in the identification and documentation of software defe
 ##### 2. Mind Maps
 Comprehensive mind maps were crafted to visualize and organize various test scenarios. These mind maps played a crucial role in guiding the testing process and ensuring a systematic approach to uncovering potential issues.
 
-#####3. Interface Tests
+##### 3. Interface Tests
 I conducted thorough interface tests to verify the functionality and user-friendliness of the software. This involved testing different aspects of the user interface to ensure a seamless and intuitive user experience.
 
 ##### 4. Equivalence Classes Tests
