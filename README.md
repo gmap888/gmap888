@@ -16,7 +16,7 @@ Hello There, 👋🏽 I'm a results-driven QA Engineer with a knack for ensuring
 
 ⭐ I'm searching for a Job as a QA Engineer so please feel free to contact me on my email ✉️gmapwebdev@gmail.com ⭐
 
-#### Some of My best projects 👇
+#### Some of my best projects 👇
 
 ## Project 1: ProbaSorte(https://github.com/Hackathon-Luck-or-Misfortune/QA)
 
