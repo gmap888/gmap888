@@ -7,11 +7,6 @@ Hello there! I'm Gabriel Martins, a dedicated QA Engineer with a passion for ens
 
 # 💻 Tech Stack:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gmap888&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gmap888&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmap888&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=gmap888&icon=0&color=1)](https://visitcount.itsvg.in)
 
