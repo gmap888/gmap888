@@ -28,9 +28,37 @@ I contributed to the creation of clear and concise requirements, ensuring that a
 ##### 6. Interface/Functionality Testing
 Rigorous testing of the interface and functionality was conducted to guarantee a seamless and error-free user experience.
 
-#### Achievements
+### Project 2: URBAN.SCOOTER(https://github.com/gmap888/Urban-Scooter-QA)
 
-The project emerged successfully from the hackathon, winning it demonstrating the effectiveness of the adopted QA approach. The collaborative effort between development and QA, coupled with the BDD methodology, resulted in a high-quality final product.
+#### Overview
+
+Developed as part of the Tripleten Course, serves as a comprehensive demonstration of my software testing skills. This project focused on creating bug reports, mind maps, conducting interface tests, equivalence classes tests, limits tests, and API testing with Postman.
+
+#### QA Testing Skills Showcased
+
+##### 1. Bug Reports
+I actively participated in the identification and documentation of software defects, creating detailed bug reports. These reports not only highlighted the issues encountered but also provided valuable insights for the development team to address.
+
+##### 2. Mind Maps
+Comprehensive mind maps were crafted to visualize and organize various test scenarios. These mind maps played a crucial role in guiding the testing process and ensuring a systematic approach to uncovering potential issues.
+
+#####3. Interface Tests
+I conducted thorough interface tests to verify the functionality and user-friendliness of the software. This involved testing different aspects of the user interface to ensure a seamless and intuitive user experience.
+
+##### 4. Equivalence Classes Tests
+Employing the concept of equivalence classes, I designed and executed tests to validate the software's behavior across different input scenarios. This approach enhanced test coverage and identified potential boundary conditions.
+
+##### 5. Limits Tests
+Limits tests were performed to assess how the software behaved under extreme conditions, helping identify potential vulnerabilities or performance issues related to system limits.
+
+##### 6. API Testing with Postman
+Utilizing Postman, I conducted API tests to verify the functionality and reliability of the software's backend. This involved testing various API endpoints and validating the data exchange between different components.
+
+#### QA Test Interview Questions
+
+As part of my preparation for a QA Test interview, I have answered 16 questions that demonstrate my understanding of software testing principles and methodologies
+IT is in the repository go check it.
+
 
 
 
