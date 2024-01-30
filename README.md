@@ -1,8 +1,8 @@
 # 💫 About Me:
 I'm a results-driven QA Engineer with a knack for ensuring software quality and a commitment to lifelong learning.
 
-## SOME OF MY BEST PROJECTS
-### Project 1: ProbaSorte(https://github.com/Hackathon-Luck-or-Misfortune/QA)
+### SOME OF MY BEST PROJECTS
+## Project 1: ProbaSorte(https://github.com/Hackathon-Luck-or-Misfortune/QA)
 
 #### Overview
 
@@ -28,14 +28,14 @@ I contributed to the creation of clear and concise requirements, ensuring that a
 ##### 6. Interface/Functionality Testing
 Rigorous testing of the interface and functionality was conducted to guarantee a seamless and error-free user experience.
 
-## Achievements
+#### Achievements
 
 The project emerged successfully from the hackathon, being the one who winned the competition, demonstrating the effectiveness of the adopted QA approach. The collaborative effort between development and QA, coupled with the BDD methodology, resulted in a high-quality final product.
 
 
 
 
-### Project 2: URBAN.SCOOTER(https://github.com/gmap888/Urban-Scooter-QA)
+## Project 2: URBAN.SCOOTER(https://github.com/gmap888/Urban-Scooter-QA)
 
 #### Overview
 
