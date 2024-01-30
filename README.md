@@ -22,7 +22,7 @@ Hello There, 👋🏽 I'm a results-driven QA Engineer with a knack for ensuring
 
 #### Overview
 
-This project was developed during a hackathon, with a focus on implementing robust Quality Assurance (QA) practices. As the QA lead, I played a pivotal role in ensuring the project's success through meticulous testing and strategic planning.
+This project was developed during a hackathon,it was the winner project of this competition. With a focus on implementing robust Quality Assurance (QA) practices. As the QA lead, I played a pivotal role in ensuring the project's success through meticulous testing and strategic planning.
 
 #### Responsibilities
 
