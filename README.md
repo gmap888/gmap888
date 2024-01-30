@@ -1,45 +1,18 @@
-# Gabriel Martins
-
-👋 Hi there! I'm Gabriel, a passionate QA ENGINEER based in Brasil. Welcome to my GitHub profile!
-
-## About Me
-
-- 📧 gmapwebdev@gmail.com
-- 💼 www.linkedin.com/in/gmapwebdev
+# 💫 About Me:
+Hello there! I'm Gabriel Martins, a dedicated QA Engineer with a passion for ensuring software quality and a keen interest in cybersecurity. I thrive on effective communication, am independent, and possess a strong drive for continuous learning.<br><br>Feel free to reach out to me via email at 📧 gmapwebdev@gmail.com or connect with me on LinkedIn 💼 LinkedIn Profile.<br><br>Skills<br>Here are some of the skills that define my expertise:<br><br>Test Documentation: Proficient in creating comprehensive test documentation to ensure thorough testing processes.<br><br>Bug Tracking (JIRA): Experienced in using JIRA for efficient bug tracking and project management.<br><br>Manual Testing: Skilled in manual testing techniques to identify and rectify software issues.<br><br>API Testing with Postman: Capable of conducting API testing using Postman to ensure the seamless integration of different software components.<br><br>Agile Scrum Methodology: Well-versed in Agile Scrum methodologies to enhance collaboration and adaptability in the development process.<br><br>Multilingual Communication: Fluent in communicating effectively in multiple languages, facilitating better collaboration in diverse teams.<br><br>BDD (Behavior-Driven Development): Knowledgeable in BDD methodologies to bridge the gap between technical and non-technical team members.<br><br><br>Education and Achievements<br>Currently pursuing a Cybersecurity course at Saint Leo University, expanding my knowledge in securing digital environments.<br><br>Completed a QA Analyst course at Tripletten, acquiring foundational skills and expertise.<br><br>Hackathon Success: Immediately after completing my QA course, participated in a hackathon where my team emerged as champions, showcasing practical application of my skills in a collaborative environment.<br><br>Personal Traits<br>Effective Communication: Adept at clear and concise communication, enhancing collaboration within teams.<br><br>Independence: Thrive in an independent work environment, ensuring efficiency and accountability.<br><br>Continuous Learner: Committed to staying updated with the latest industry trends and technologies through continuous learning.<br><br>Let's Connect!<br>I'm always open to connecting with fellow professionals, tech enthusiasts, and anyone interested in the world of QA, cybersecurity, and continuous improvement. Feel free to explore my projects and don't hesitate to reach out for collaboration, discussions, or just a friendly chat!<br><br>Happy coding! 🚀<br><br><br><br><br><br><br>
 
 
-I'm a results-driven QA Engineer with a knack for ensuring software quality and a commitment to lifelong learning.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5VTYh76C) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gmapwebdev/) 
 
-As a graduate of the Tripleten Bootcamp, I've gained hands-on experience in manual testing, bug tracking, and API testing. My skills extend to various testing frameworks, including Selenium WebDriver and Postman. I thrive in Agile Scrum environments, contributing to the creation of robust software solutions. In the bootcamp I helped other students with questions related to the course/sprints assignements and projects
+# 💻 Tech Stack:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gmap888&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gmap888&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmap888&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-I'm searching for a job as a QA Engineer, so if you like me and my work please fell free to contact me
-I can move on and Yes I hope we can colaborate soon.
+---
+[![](https://visitcount.itsvg.in/api?id=gmap888&icon=0&color=1)](https://visitcount.itsvg.in)
 
-I have strong skills in communication, organization and I will be a diferential in any equip because I have a good vision for work.
-See you soon 
-
-## Skills
-
-- Test Documentation
-
-- Bug Tracking ( JIRA )
-
-- Manual Testing
-
-- API Testing with Postman
-
-- Agile Scrum Methodology
-
-- Multilingual Communication
-
-## Projects
-
-### Project 1: Misluck or Forthune Hackathon
-
-- 📁  https://github.com/gmap888/Hackathon-Luck-or-Misfortune
-- 📝  ProbaSorte é uma inovadora plataforma web projetada para simplificar a escolha de números na Mega Sena
-- 🚀  https://probasorte.vercel.app
-
-
-
-Thanks for visiting my GitHub profile! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
