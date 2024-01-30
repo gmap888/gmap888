@@ -1,12 +1,17 @@
 # 💫 About Me:
 I'm a results-driven QA Engineer with a knack for ensuring software quality and a commitment to lifelong learning.
-###### Skills
+#### Skills
 
 Test Design
+
 WEB Tests
+
 API Tests
+
 SQL/DATABASE
-Agile SCRUM Methodology 
+
+Agile SCRUM Methodology
+
 Bug Tracking
 
 
