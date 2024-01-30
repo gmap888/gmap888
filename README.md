@@ -28,6 +28,13 @@ I contributed to the creation of clear and concise requirements, ensuring that a
 ##### 6. Interface/Functionality Testing
 Rigorous testing of the interface and functionality was conducted to guarantee a seamless and error-free user experience.
 
+## Achievements
+
+The project emerged successfully from the hackathon, being the one who winned the competition, demonstrating the effectiveness of the adopted QA approach. The collaborative effort between development and QA, coupled with the BDD methodology, resulted in a high-quality final product.
+
+
+
+
 ### Project 2: URBAN.SCOOTER(https://github.com/gmap888/Urban-Scooter-QA)
 
 #### Overview
