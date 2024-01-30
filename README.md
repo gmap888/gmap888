@@ -1,31 +1,36 @@
 # 💫 About Me:
-Hello there! I'm Gabriel Martins, a dedicated QA Engineer with a passion for ensuring software quality.<br><br>Here are some of the skills that define my expertise:<br><br>Test Documentation<br><br>Bug Tracking <br><br>Manual Testing<br><br>API Testing<br><br>Agile Scrum Methodology<br><br>Multilingual Communication<br><br>BDD (Behavior-Driven Development)<br><br><br>Let's Connect! gmapwebdev@gmail.com📧<br>I'm always open to connecting with fellow professionals, tech enthusiasts, and anyone interested in the world of QA, cybersecurity, and continuous improvement. Feel free to explore my projects and don't hesitate to reach out for collaboration, discussions, or just a friendly chat!<br><br>Happy coding! 🚀<br><br><br><br><br><br><br>
+Hello there, I'm Gabriel Martins, a dedicated resulted-
+## SOME OF MY BEST PROJECTS
+#### Project 1: ProbaSorte(https://github.com/Hackathon-Luck-or-Misfortune/QA)
 
-# SOME OF MY BEST PROJECTS
-### Projeto 1: ProbaSorte.[https://github.com/Hackathon-Luck-or-Misfortune/QA]
-Este projeto foi concebido durante um hackathon, e tive a responsabilidade integral pela Garantia de Qualidade (QA). Ao desempenhar o papel de QA, conduzi uma série de atividades cruciais para assegurar a robustez e eficácia do projeto.
+## Overview
 
-Minhas Responsabilidades:
+This project was developed during a hackathon, with a focus on implementing robust Quality Assurance (QA) practices. As the QA lead, I played a pivotal role in ensuring the project's success through meticulous testing and strategic planning.
 
-Criação de Mind Maps: Desenvolvi mapas mentais abrangentes para visualização e planejamento de testes. Estes mapas proporcionaram uma estrutura clara para abordar diferentes cenários de teste.
+## Responsibilities
 
-Elaboração de Casos de Teste: Criei casos de teste detalhados, abordando uma ampla gama de condições, garantindo assim uma cobertura abrangente dos requisitos do projeto.
+### 1. Mind Maps Creation
+I developed comprehensive mind maps to visualize and plan various test scenarios. These mind maps served as a valuable guide throughout the testing process.
 
-Execução de Testes: Realizei a execução meticulosa dos testes, identificando e documentando de forma precisa quaisquer problemas ou discrepâncias no funcionamento do projeto.
+### 2. Test Case Development
+Detailed test cases were created to cover a diverse range of conditions. This approach aimed to ensure comprehensive test coverage aligned with project requirements.
 
-Desenvolvimento em BDD: Adotei a metodologia de Desenvolvimento Guiado por Comportamento (BDD) para a escrita de testes. Isso não apenas garantiu a funcionalidade do sistema, mas também alinhou os testes diretamente com os requisitos de negócios.
+### 3. Test Execution
+I executed tests with precision, identifying and thoroughly documenting any issues or discrepancies in the project's functionality.
 
-Criação de Requisitos: Contribuí para a criação de requisitos, garantindo que todas as funcionalidades planejadas estivessem claramente documentadas e testadas.
+### 4. BDD Test Writing
+Adopting the Behavior-Driven Development (BDD) methodology, I wrote tests that not only verified the system's functionality but also directly aligned with business requirements.
 
-Testes de Interface/Funcionamento: Realizei testes rigorosos de interface e funcionamento para garantir uma experiência do usuário coesa e sem falhas.
+### 5. Requirements Creation
+I contributed to the creation of clear and concise requirements, ensuring that all planned features were well-documented and thoroughly tested.
 
-Resultados Alcançados:
-O projeto foi bem-sucedido no hackathon, graças à abordagem rigorosa de QA adotada. A colaboração eficaz entre o desenvolvimento e o QA, aliada à metodologia BDD, proporcionou um produto final de alta qualidade.
+### 6. Interface/Functionality Testing
+Rigorous testing of the interface and functionality was conducted to guarantee a seamless and error-free user experience.
 
-Tecnologias Utilizadas:
+## Achievements
 
-[Inclua aqui as tecnologias específicas que foram utilizadas no projeto.]
-Link para o Projeto no GitHub
+The project emerged successfully from the hackathon, winning it demonstrating the effectiveness of the adopted QA approach. The collaborative effort between development and QA, coupled with the BDD methodology, resulted in a high-quality final product.
+
 
 
 ## 🌐 Socials:
