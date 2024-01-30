@@ -1,20 +1,20 @@
 # 💫 About Me:
-I'm a results-driven QA Engineer with a knack for ensuring software quality and a commitment to lifelong learning.
+Hello There, 👋🏽 I'm a results-driven QA Engineer with a knack for ensuring software quality and a commitment to lifelong learning.
 #### Skills
 
-Test Design
+👉🏾Test Design
 
-WEB Tests
+👉🏾WEB Tests
 
-API Tests
+👉🏾API Tests
 
-SQL/DATABASE
+👉🏾SQL/DATABASE
 
-Agile SCRUM Methodology
+👉🏾Agile SCRUM Methodology
 
-Bug Tracking
+👉🏾Bug Tracking
 
-I'm searching for a Job as a QA Engineer so please feel free to contact me on my email ✉️gmapwebdev@gmail.com
+⭐ I'm searching for a Job as a QA Engineer so please feel free to contact me on my email ✉️gmapwebdev@gmail.com ⭐
 
 #### Some of My best projects 👇
 
