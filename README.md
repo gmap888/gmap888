@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a results-driven QA Engineer with a knack for ensuring software quality and a commitment to lifelong learning.
 
-### SOME OF MY BEST PROJECTS
 ## Project 1: ProbaSorte(https://github.com/Hackathon-Luck-or-Misfortune/QA)
 
 #### Overview
