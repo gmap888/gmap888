@@ -1,43 +1,26 @@
 # About Me
-Hello there! 👋🏽 I'm a results-driven QA Engineer with a passion for ensuring software quality and a commitment to lifelong learning.
+Hello, 👋🏽
+I'm a dedicated Test Analyst, passionate about ensuring software quality and committed to continuous learning. With experience in Test Design, Web Testing, API Testing (Postman), SQL/Database, Agile SCRUM methodology, and Bug Tracking (JIRA), I apply a results-oriented approach to every project. I have knowledge of Javascript and Python, and currently, I am studying automation with Cypress.
 
-Skills
-👉🏾 Test Design
-👉🏾 WEB Tests
-👉🏾 API Tests
-👉🏾 SQL/DATABASE
-👉🏾 Agile SCRUM Methodology
-👉🏾 Bug Tracking
+Check out my projects on GitHub:
 
-⭐ I'm currently seeking opportunities as a QA Engineer. Feel free to contact me via email at ✉️ gmapwebdev@gmail.com. ⭐
+ProbaSorte
+QA Analyst
+Project 1: ProbaSorte (https://probasorte.vercel.app)
+Led the development of a winning project through mind maps, test cases, and tests using the Shift Left approach.
+Source: github.com/Hackathon-Luck-or-Misfortune/QA
+Platforms and Technologies Used: Notion, Figma, Draw.io, BDD
 
-Some of My Best Projects:
+URBAN.SCOOTER
+Test Skills Showcase
+Project: Comprehensive demonstration of software testing skills.
+Source: github.com/gmap888/Urban-Scooter-QA
+Platforms and Technologies Used: Postman, Jira, Draw.io, Mind Maps, Flowchart
 
-Project 1: ProbaSorte (https://github.com/Hackathon-Luck-or-Misfortune/QA)
-Winner of a hackathon competition, ProbaSorte focused on implementing robust QA practices.
-Responsibilities included:
-Mind Maps Creation
-Test Case Development
-Test Execution
-BDD Test Writing
-Requirements Creation
-Interface/Functionality Testing
-Achievements:
-Successful emergence from the hackathon, showcasing the effectiveness of the QA approach.
+📧 Contact:
+Feel free to reach out to me via email at ✉️ gmapwebdev@gmail.com or by 📞 +5534984444994.
 
-Project 2: URBAN.SCOOTER (https://github.com/gmap888/Urban-Scooter-QA)
-Developed as part of the Tripleten Course, demonstrating comprehensive software testing skills.
-QA Testing Skills Showcased:
-Bug Reports
-Mind Maps
-Interface Tests
-Equivalence Classes Tests
-Limits Tests
-API Testing with Postman
-QA Test Interview Questions
-
-(https://github.com/gmap888/Urban-Scooter-QA/blob/main/Perguntas%20sobre%20Testes.txt)
-Explore my understanding of software testing principles and methodologies through 16 QA Test interview questions.
+Thank you =)
 
 
 ## 🌐 Socials:
