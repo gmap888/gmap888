@@ -1,14 +1,22 @@
 # About Me
-Hello, 👋🏽
-I'm a dedicated Test Analyst, passionate about ensuring software quality and committed to continuous learning. With experience in Test Design, Web Testing, API Testing (Postman), SQL/Database, Agile SCRUM methodology, and Bug Tracking (JIRA), I apply a results-oriented approach to every project. I have knowledge of Javascript and Python, and currently, I am studying automation with Cypress.
+Olá, 👋🏽
+Sou um profissional de QA com experiência em garantir a qualidade e a eficácia de sistemas de software. Possuo um sólido conhecimento em metodologias de teste, automação de testes, e gerenciamento de defeitos. 
 
-Check out my projects on GitHub :)
+Minha experiência em QA inclui trabalhar com ferramentas como Selenium e JIRA, desenvolvendo scripts de teste automatizados e colaborando com equipes multifuncionais para garantir a entrega de produtos de alta qualidade. 
+
+Além disso, estou cursando Cibersegurança, adquirindo habilidades em segurança de rede, gerenciamento de vulnerabilidades e conformidade com regulamentações.
+
+Em minha posição atual, minhas responsabilidades incluem testar o frontend de diversos produtos de software, gerar relatórios detalhados de bugs, elaborar cenários de testes positivos e negativos, e examinar meticulosamente elementos de interface em busca de defeitos. Sou habilidoso em avaliar a adaptabilidade do layout em diferentes dispositivos, utilizando métodos manuais e automatizados com ferramentas como o Postman.
+
+A automação desempenha um papel crucial em meu fluxo de trabalho, onde utilizo ferramentas como Selenium WebDriver e Robot Framework para otimizar processos de teste e aprimorar a experiência e engajamento do usuário. A colaboração é fundamental em minha função, pois trabalho em estreita colaboração com equipes multifuncionais compostas por desenvolvedores, designers e gerentes de projeto para fornecer soluções de software que atendam não apenas às expectativas dos clientes, mas também aos padrões da indústria.
+
+Veja os meus projetos :)
 
 
-📧 Contact:
-Feel free to reach out to me via email at ✉️ gmapwebdev@gmail.com or by 📞 +5534984444994.
+📧 Contato:
+Sinta se a vontade para me contatar via email at ✉️ gmapwebdev@gmail.com or pelo número 📞 +5534984444994.
 
-Thank you =)
+Obrigado =)
 
 
 ## 🌐 Socials:
