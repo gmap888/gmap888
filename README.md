@@ -1,5 +1,6 @@
 # About Me
 Olá, 👋🏽
+
 Sou um profissional de QA com experiência em garantir a qualidade e a eficácia de sistemas de software. Possuo um sólido conhecimento em metodologias de teste, automação de testes, e gerenciamento de defeitos. 
 
 Minha experiência em QA inclui trabalhar com ferramentas como Selenium e JIRA, desenvolvendo scripts de teste automatizados e colaborando com equipes multifuncionais para garantir a entrega de produtos de alta qualidade. 
