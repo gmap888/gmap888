@@ -24,7 +24,7 @@ Obrigado =)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5VTYh76C) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gmapwebdev) 
 
 # 💻 Tech Stack:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Selenium](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ASelenium_Logo.png&psig=AOvVaw0p2IvtvnjJd71HHNqS4rEU&ust=1717632089652000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCg9aWUw4YDFQAAAAAdAAAAABAE)
 
 [![](https://visitcount.itsvg.in/api?id=gmap888&icon=0&color=1)](https://visitcount.itsvg.in)
 
