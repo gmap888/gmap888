@@ -1,5 +1,4 @@
 # Welcome
-# 💫 About Me:
 I am a IT professional with experience in Software Quality, specializing in Manual and Automated Testing. <br>I also have experience in administrative roles, where I developed skills in document management, scheduling, and effective communication with clients and teams. <br>Currently, I am pursuing Cybersecurity EAD at Saint Leo University, strengthening my knowledge in Networks and Security.<br><br>Skills:<br><br>Testing: Automated and Manual Testing, Test Cases, Bug Documentation, and Tracking<br><br>Tools and Technologies: Selenium, Playwright, Cucumber, Postman, Docker, Swagger, Jira, Zephyr, PowerBI<br><br>Methodologies: BDD (Behavior-Driven Development), Scrum, Kanban<br><br>Programming Languages: Java, JavaScript, Python<br><br>Database: SQL<br><br>Additional Skills: Risk Analysis, Effective Communication, Teamwork, Logical Thinking, Organization, Empathy, Problem Solving <br>
 
 
